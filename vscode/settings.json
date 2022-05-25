@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.cppStandard": "c++11",
+    "files.associations": {
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "complex": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp"
+    }
+}
